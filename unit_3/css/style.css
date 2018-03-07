@@ -1,8 +1,11 @@
 body {
+  section1
   background-image: url("/unit_3/images/stock-photo-harmony-of-family-relations-243296038.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   font-family: Helvetica;
+  section2
+  background: #ee82ee
 }
 
 .blog_image {
