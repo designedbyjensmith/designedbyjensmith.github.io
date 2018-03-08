@@ -10,10 +10,15 @@ header {
 	background-color: rgba(100, 113, 172, 0.7);
 }
 
+#logo {
+	display: inline;
+	float: left;
+}
+
 nav{
   font-family: Airel;	
   display: inline;
-  float: center;
+  float: right;
  }
 
  #slogan {
