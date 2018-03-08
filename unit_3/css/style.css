@@ -20,14 +20,14 @@ header {
 
 nav{
   display: inline;
-  float:right:;
+  float:right;
   margin-bottom;
   text-align: center;
  }
 
  h1{
 	font-family: ariel;
-  	font-size: 25px;
+  	font-size: 10px;
 	line-height: 1.5em;
 	margin: 2em;
 }
