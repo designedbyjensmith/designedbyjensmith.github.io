@@ -19,26 +19,7 @@ nav{
  #slogan {
     font-family: 'Cormorant Garamond', serif;
 }
-
- /*h1{
-	font-family: ariel;
-  	font-size: 10px;
-	line-height: 1.5em;
-	margin: 2em;
+h1 {
+	font-size: 14pt;
+	font-family: 'Cormorant Garamond', serif;
 }
-
-.blog_image {
-	height: 100px;
-}
-
-section1 {
-  background-image: url("/unit_3/images/stock-photo-harmony-of-family-relations-243296038.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}  
-
-section2 {
-  background-color: #000;
-}
-
-*/
