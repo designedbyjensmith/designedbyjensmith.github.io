@@ -1,21 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
 
 header {
-   background-color: #99649cbc;
+   background-image: url(/unit_3/images/stock-photo-harmony-of-family-relations-243296038.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
    margin:0;
-   padding: 20px 0;
-   min-height: 40px;
+/*   padding: 20px 0;
+   min-height: 40px;*/
  }
 
-#slogan {
-    background-image: url(/unit_3/images/stock-photo-harmony-of-family-relations-243296038.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    font-size: 2em;
-/*    min-height: 499px;
-*/    padding: 2em 0 0;
-    text-align: left-bottom;
-    margin-bottom: 0;
+.topbar {
+	background-color: rgba(100, 113, 172, 0.7);
 }
 
 nav{
@@ -25,7 +20,15 @@ nav{
   text-align: center;
  }
 
- h1{
+ #slogan {
+    font-size: 2em;
+/*    min-height: 499px;
+*/    padding: 2em 0 0;
+    text-align: left-bottom;
+    margin-bottom: 2em;
+}
+
+ /*h1{
 	font-family: ariel;
   	font-size: 10px;
 	line-height: 1.5em;
@@ -46,3 +49,4 @@ section2 {
   background-color: #000;
 }
 
+*/
