@@ -4,8 +4,8 @@ header {
    background-image: url(/unit_3/images/stock-photo-harmony-of-family-relations-243296038.jpg);
    background-size: cover;
    background-repeat: no-repeat;
-   margin:0;
-/*   padding: 20px 0;
+/*   margin:0;
+*//*   padding: 20px 0;
    min-height: 40px;*/
  }
 
@@ -15,15 +15,16 @@ header {
 
 nav{
   display: inline;
-  float:right;
+  float: center;
   margin-bottom;
   text-align: center;
  }
 
  #slogan {
+    font-family: 'Cormorant Garamond', serif;
     font-size: 2em;
 /*    min-height: 499px;
-*/    padding: 2em 0 0;
+*/    padding: 2em;
     text-align: left-bottom;
     margin-bottom: 2em;
 }
