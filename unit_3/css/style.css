@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
 
 header {
-   background-color: #649cbc88;
+   background-color: #99649cbc;
    margin:0;
    padding: 20px 0;
    min-height: 40px;
@@ -12,13 +12,20 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 2em;
-    min-height: 499px;
-    padding: 2em 0 0;
+/*    min-height: 499px;
+*/    padding: 2em 0 0;
     text-align: left-bottom;
     margin-bottom: 0;
 }
 
-h1{
+nav{
+  display: inline;
+  float:right:;
+  margin-bottom;
+  text-align: center;
+ }
+
+ h1{
 	font-family: ariel;
   	font-size: 25px;
 	line-height: 1.5em;
