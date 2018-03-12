@@ -5,6 +5,30 @@ header {
    background-size: cover;
    background-repeat: no-repeat;
 }
+h1 {
+  font-size: 14pt;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+h2 {
+  font-size: 12pt;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+h3 {
+  font-size: 10pt;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+h4 {
+  font-size: 8pt;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+p {
+  font-size: 8pt;
+  font-family: 'Cormorant Garamond', serif;
+}
 
 .topbar {
 	background-color: rgba(100, 113, 172, 0.7);
@@ -22,9 +46,15 @@ nav{
  }
 
  #slogan {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant Garamond', san-serif;
 }
-h1 {
-	font-size: 14pt;
-	font-family: 'Cormorant Garamond', serif;
+
+ #EM_photo {
+}
+
+.blog_image {
+
+}
+.recipe_image {
+
 }
