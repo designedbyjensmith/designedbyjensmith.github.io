@@ -1,4 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  width: 100%
+}
 
 header {
    background-image: url(/unit_3/images/stock-photo-well-being-concept-yoga-background-245797507.jpg);
